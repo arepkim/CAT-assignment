@@ -1,12 +1,12 @@
 # PDF to TXT Converter
-This project is a collaborative effort aimed at developing a user-friendly web application with a graphical interface using a web programming languages. The objective of this assignment is to set up a Linux Apache web server using Docker and create a seamless platform option allowing users to connvert PDF files to TXT files format and vice versa.
+This project is a collaborative effort between a team aiming in developing a user-friendly web application with a graphical interface using a web programming languages. The objective of this assignment is to set up a Linux Apache web server using Docker and create a seamless platform option allowing users to connvert PDF files to TXT files format and vice versa.
 
 # ⚙️ Prerequisite
-You will need [Docker Desktop](https://www.docker.com/products/docker-desktop/) in your system for this project to run properly
+User will need [Docker Desktop](https://www.docker.com/products/docker-desktop/) in your system for this project to run execute properly
 
 
 # 🔥 Getting Started
-To run this project, you will need to follow the given instructions:
+To run this project, you will need to follow the given instructions below:
 
   1. Open your daily terminal
   2. Navigate to the project folder
@@ -33,4 +33,5 @@ To run this project, you will need to follow the given instructions:
   </pre>
 
   7. Later you will enter the website for this application, then you can choose whether to convert a pdf to txt or vice versa. Just choose to upload a file in the given segment then choose to convert it. You will   get a new file in transform version.
+  8. There is also a contact information for each group member regarding the website development process.
 
